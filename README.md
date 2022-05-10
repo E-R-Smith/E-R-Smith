@@ -8,7 +8,7 @@
 
 Projects/Assignments I did for classes (that are allowed to be public) can be found here: https://github.com/ERS-School
 
-LinkedIn: bit.ly/ERSLinkedIn
+LinkedIn: https://www.bit.ly/ERSLinkedIn
 
 My hobbies include
 - 🔥 volunteer firefighting
