@@ -6,8 +6,6 @@
 - 💬 C#, C++, WPF/XAML, JavaScript, HTML, CSS
 - 🔨 Maya, Unity, Unreal Engine
 
-Projects/Assignments I did for classes (that are allowed to be public) can be found here: https://github.com/ERS-School
-
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabeth-smith-47a99a170)
 
@@ -28,6 +26,8 @@ Projects/Assignments I did for classes (that are allowed to be public) can be fo
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=E-R-Smith&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+Projects/Assignments I did for classes (that are allowed to be public) can be found here: https://github.com/ERS-School
 
 ---
 [![](https://visitcount.itsvg.in/api?id=E-R-Smith&icon=5&color=0)](https://visitcount.itsvg.in)
