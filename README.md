@@ -3,8 +3,8 @@
 - 🎓 Graduated summa cum laude from Rochester Institute of Technology 🐯
 - 🎮 BS in Game Design and Development
 - 🧠 Minor in Psychology
-- 💬 C#, C++, WPF/XAML, JavaScript, HTML, CSS
-- 🔨 Maya, Unity, Unreal Engine
+
+- 🔨 Experienced with Maya, Unity, Unreal Engine, Flutter, Protobuf, and more
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabeth-smith-47a99a170)
