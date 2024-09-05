@@ -28,11 +28,3 @@ Projects/Assignments I did for classes (that are allowed to be public) can be fo
 [![](https://visitcount.itsvg.in/api?id=E-R-Smith&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabeth-smith-47a99a170) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=E-R-Smith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=E-R-Smith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-R-Smith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
